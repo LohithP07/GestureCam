@@ -53,9 +53,26 @@ usable foundation with smooth tracking and basic gestures.
 
 ## 📁 Project Structure
 
-gesture_control/ │ ├── main.py │ ├── core/ │ ├── camera.py │ ├──
-hand_tracker.py │ ├── utils/ │ ├── smoothing.py │ ├── features/ │ ├──
-virtual_mouse.py
+gesture_control/
+│
+├── main.py
+│
+├── core/
+│   ├── camera.py
+│   ├── hand_tracker.py
+│   ├── gesture_engine.py
+│   └── action_controller.py
+│
+├── utils/
+│   ├── config.py
+│   ├── smoothing.py
+│   └── helpers.py
+│
+├── features/
+│   ├── virtual_mouse.py
+│   └── shortcuts.py
+│
+└── assets/
 
 ---
 
