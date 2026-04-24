@@ -146,9 +146,3 @@ Gesture Action
 ## 🤝 Contributing
 
 Contributions, ideas, and improvements are welcome.
-
----
-
-## 📄 License
-
-MIT License (or your preferred license)
